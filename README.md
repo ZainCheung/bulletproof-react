@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="docs/assets/logo.svg" width="100%" alt="Bulletproof React Logo" />
+</div>
+
 # Bulletproof React 🛡️ ⚛️
 
 [![MIT License](https://img.shields.io/github/license/alan2207/bulletproof-react)](https://github.com/alan2207/bulletproof-react/blob/master/LICENSE)
